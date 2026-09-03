@@ -7,7 +7,7 @@ toolchain go1.23.12
 require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/joho/godotenv v1.4.0
-	github.com/rabbitmq/amqp091-go v1.10.0
+	github.com/rabbitmq/amqp091-go v1.13.0
 	github.com/rs/zerolog v1.28.0
 )
 
